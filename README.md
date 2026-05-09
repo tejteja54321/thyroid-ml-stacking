@@ -93,7 +93,7 @@ The model uses the following medical attributes:
 | Metric | Value |
 |---|---|
 | Accuracy | 98.70% |
-| Average Precision (Micro) | 99.92% |
+| Average Precision (Micro) | 100.00% |
 | AU-PRC for Hyperthyroid | 97.00% |
 | AU-PRC for Hypothyroid | 100.00% |
 | AU-PRC for Negative | 100.00% |
